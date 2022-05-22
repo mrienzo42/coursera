@@ -1,4 +1,4 @@
-# coursera teat repo
+# coursera test repo
 
 ## this is my readme file
 
